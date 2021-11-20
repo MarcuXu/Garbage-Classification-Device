@@ -3,4 +3,4 @@
 2. Use AI-Tool to load the file and related configuration to Art-Pi, and then design the driver codes. After initialising the screen, camera, and so on, use the bilinear interpolation to convert captured images to particular three-channel data according to the model. Finally, relying on objects predicted, there will be some corresponding reaction in the Art-Pi.
 3. Help with the presentation, on-site installation and demonstration of this program, answered the questions about system design from the judges.
 
-You can view a [demo](https://www.bilibili.com/video/BV1fg411K7kh?spm_id_from=333.33.dynamic.content.click) of it on Bilibili.
+You can view a [demo](https://www.bilibili.com/video/BV1fg411K7kh?spm_id_from=333.999.0.0) of the device on Bilibili.
