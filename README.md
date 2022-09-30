@@ -1,4 +1,4 @@
-# Garbage Classification Device at Embedded Dev Summer School 2021 in Nanjing IC Training.
+# Garbage Classification Device Design at 2021 Embedded Dev & AI Summer School in Nanjing IC Training Base Ltd.
 It works as a waste separator for roadside litter bins to help remind pedestrians to separate their rubbish when they throw it away.
 
 And the following is a flow chart of the project:
